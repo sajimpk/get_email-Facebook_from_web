@@ -1,1 +1,3 @@
-only normal site you can use example : https://www.jaagoit.com
+# Only normal site you can use Example :
+```language
+https://www.jaagoit.com
